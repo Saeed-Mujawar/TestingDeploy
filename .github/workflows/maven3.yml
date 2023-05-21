@@ -28,8 +28,4 @@ jobs:
         cache: maven
     - name: Build with Maven
       run: mvn -B package --file pom.xml
-<<<<<<< HEAD
 
-=======
-   
->>>>>>> 55a2dd8347d7647df0bcb38da30593a1aebf6a87
